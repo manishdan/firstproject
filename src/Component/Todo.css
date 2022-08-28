@@ -1,0 +1,41 @@
+.todo {
+text-align: center;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+ .todo-from{
+    padding: 50px;
+ }
+ .todo-from from{
+    margin: 20px;
+
+ }
+ .todo-from task{
+    margin: 20px;
+ }
+ .task{
+    padding: 10px;
+    width: 25%;
+    margin: 10px;
+ }
+ .button{
+    padding: 10px;
+    color: rgb(235, 233, 228);
+    background-color: rgb(41, 25, 185);
+    outline: none;
+    border: 2px solid  rgb(41, 25, 185) ;
+    cursor: pointer;
+
+ }
+ .todo-lists>h3{
+    margin-top: 20px;
+    color: red;
+
+ }
+ .todo-lists > ul{
+    list-style: none;
+    margin-top: 20px;
+
+ }
+
+ 
